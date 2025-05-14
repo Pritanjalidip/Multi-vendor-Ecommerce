@@ -1,0 +1,4 @@
+com\ecommerce\servlets\FetchProductsServlet.class
+com\ecommerce\servlets\VendorRegisterServlet.class
+com\ecommerce\servlets\AddProductServlet.class
+com\ecommerce\servlets\VendorLoginServlet.class
